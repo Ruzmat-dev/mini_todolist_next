@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "id": 5,
+      "title": "asa",
+      "price": 23,
+      "weight": 2,
+      "isActive": false,
+      "created_at": 1691566088746,
+      "gender": "Erkak"
+    }
+  ]
+}
